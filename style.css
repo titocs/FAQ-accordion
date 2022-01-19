@@ -222,7 +222,7 @@ main {
         flex-basis: 50%;
         background-image: url("images/illustration-woman-online-desktop.svg"), url("images/bg-pattern-desktop.svg");
         background-repeat: no-repeat;
-        background-position: -5vw 5vw, -39vw -21vw;
+        background-position: -5vw 6vw, -39vw -21vw;
         background-size: 35vw, 69vw;
     }
 
